@@ -36,7 +36,7 @@ You can explore more of my work on my [GitHub](https://github.com/Blairnation).
 
 - **Email**: tonyblair246@gmail.com
 - **LinkedIn**: [Tony Blair](https://www.linkedin.com/in/yeboah-tony-blair-4857a1268/)
-- **Twitter**: [@YourTwitterHandle](https://twitter.com/blairnation1)
+- **Twitter**: [@blairnation1](https://twitter.com/blairnation1)
 
 Feel free to reach out if you want to collaborate, have questions, or just want to chat!
 
