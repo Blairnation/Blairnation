@@ -5,12 +5,14 @@ I'm currently pursuing a BSc in Computer Engineering at the University of Energy
 
 ## 🚀 My Skills
 
-- **Python Developer**
-- **Django Web Developer**
+- **Python**
+- **Django**
+- **Django Rest Framework**
+- **React**
 - **Data Structures and Algorithms**
 - **Object-Oriented Programming (OOP)**
 - **HTML and CSS**
-- **Basic JavaScript**
+- **JavaScript**
 - **Competitive Programming (LeetCode, HackerRank)**
 - **IT Tutoring and Mentorship**
 
