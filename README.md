@@ -1,6 +1,6 @@
 # Hi there, I'm Tony Blair! 👋
 
-I'm a passionate Python and Django web developer with a strong foundation in object-oriented programming, data structures, and algorithms. 
+I'm a passionate Python and Django software developer with a strong foundation in object-oriented programming, data structures, and algorithms. 
 I'm currently pursuing a BSc in Computer Engineering at the University of Energy and Natural Resources, Sunyani, Ghana.
 
 ## 🚀 My Skills
